@@ -14,8 +14,8 @@
 
 <h1>Skills : </h1>
 <h3>Languages : </h3><img src="https://skills.thijs.gg/icons?i=c,cpp,java,py,mysql">
-<h3>Web : </h3><img src="https://skills.thijs.gg/icons?i=html,css,sass,js,jquery,bootstrap,tailwind,react,nextjs,mongodb,express">
-<h3>Tools : </h3><img src="https://skills.thijs.gg/icons?i=linux,vscode,eclipse,git,github,bash,figma,r,stackoverflow,vim"> 
+<h3>Web : </h3><img src="https://skills.thijs.gg/icons?i=html,css,sass,js,typescript,bootstrap,tailwind,react,nextjs,mongodb,express">
+<h3>Tools : </h3><img src="https://skills.thijs.gg/icons?i=linux,vscode,eclipse,git,github,bash,figma,r,stackoverflow,vim,postman,vercel"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreevarshanm&show_icons=true&locale=en&layout=compact" alt="sreevarshanm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreevarshanm&show_icons=true&locale=en" alt="sreevarshanm" /></p>
